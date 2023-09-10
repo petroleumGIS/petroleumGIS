@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petroleumGIS
-- 👀 I’m interested in GIS, technical documenting, data management, and petroleum geoscience.
+- 👀 I’m interested in opensource GIS, data management, and petroleum geoscience.
 - 🌱 I’m currently learning python, linux, systems administrattion
 - 📫 I can be reached at my email info@petroleumgis.com
 
